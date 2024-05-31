@@ -1,0 +1,15 @@
+{
+  "name": "chattest1",
+  "version": "1.0.0",
+  "description": "A simple chatbot application using Node.js",
+  "main": "chatbot.js",
+  "scripts": {
+    "start": "node chatbot.js"
+  },
+  "dependencies": {
+    "readline": "^8.1.0",
+    "http": "0.0.1-security"
+  },
+  "author": "",
+  "license": "ISC"
+}
